@@ -1,0 +1,6 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day14\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.dll
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day14\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day14\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day14\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day14\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.dll
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day14\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.pdb
